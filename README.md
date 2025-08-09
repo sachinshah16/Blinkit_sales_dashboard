@@ -36,7 +36,7 @@ The dashboard provides **actionable insights** for decision-making by displaying
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard Preview](Screenshot.png)  
+![Dashboard Preview](Blinkit_dashboard.png)  
 
 ---
 
